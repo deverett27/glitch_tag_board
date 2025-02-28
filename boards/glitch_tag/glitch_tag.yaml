@@ -1,0 +1,12 @@
+identifier: glitch_tag/nrf52832
+name: glitch_tag
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 64
+flash: 512
+supported:
+  - gpio
+vendor: stacksmashing

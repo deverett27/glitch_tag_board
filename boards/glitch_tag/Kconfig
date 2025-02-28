@@ -1,0 +1,8 @@
+# glitch tag board configuration
+
+# Copyright (c) 2025
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_GLITCH_TAG
+
+endif # BOARD_GLITCH_TAG

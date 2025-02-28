@@ -1,0 +1,7 @@
+# glitch tag board configuration
+
+# Copyright (c) 2025
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_GLITCH_TAG
+	select SOC_NRF52832_QFAA

@@ -1,0 +1,6 @@
+board:
+  name: glitch_tag
+  full_name: nRF52 Glitch Tag
+  vendor: stacksmashing
+  socs:
+  - name: nrf52832
